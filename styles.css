@@ -1,0 +1,23 @@
+body {
+    background-color: beige;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    color: brown;
+    font-weight: bold;
+    font-size: 40px;
+
+}
+
+h2 {
+    color: brown;
+    font-weight: bold;
+    font-size: 30px;
+
+}
+
+ul, ol, p {
+    font-size: 20px;
+    color:rgb(182, 62, 62);
+}
